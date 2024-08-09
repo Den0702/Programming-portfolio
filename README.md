@@ -1,7 +1,7 @@
 ## What I learned during my time at Akademia 108
 During the course, I learned how to work with the triplet - HTML, CSS and JAVASCRIPT, practiced the interaction of front-end code with APIs implementing versatile tasks and projects. I also learned how to create web pages more efficiently using a suitable tool for this - the SASS preprocessor. And finally learned how to build web user interfaces with React library having a chance to create and implement graphic design and my own vision of responsive layout here, to test the app and fix discovered bugs.
 ## Programming-related projects
-## The projects I completed during my front-end courses (Akademia 108 and Rolling Scopes School) and university studies
+### The projects I completed during my front-end courses (Akademia 108 and Rolling Scopes School) and university studies
 - **Interactive 2-page site** "Shelter" (Apr 2023 - Jun 2023) [repo](https://github.com/Den0702/Shelter)  
 My responsibility here was to build a web page using graphic design (Figma) and PixelPerfect tool, create frond end functionalities and test them.  
 - **Interactive landing page** "Plants" (Jan 2023 - Feb 2023) [repo](https://github.com/Den0702/Plants/tree/main)  
